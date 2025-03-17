@@ -1,0 +1,14 @@
+/home/Chief/Documents/programming/cSharp/WeatherClient/obj/Debug/net9.0/WeatherClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/Chief/Documents/programming/cSharp/WeatherClient/obj/Debug/net9.0/WeatherClient.AssemblyInfoInputs.cache
+/home/Chief/Documents/programming/cSharp/WeatherClient/obj/Debug/net9.0/WeatherClient.AssemblyInfo.cs
+/home/Chief/Documents/programming/cSharp/WeatherClient/obj/Debug/net9.0/WeatherClient.csproj.CoreCompileInputs.cache
+/home/Chief/Documents/programming/cSharp/WeatherClient/bin/Debug/net9.0/WeatherClient
+/home/Chief/Documents/programming/cSharp/WeatherClient/bin/Debug/net9.0/WeatherClient.deps.json
+/home/Chief/Documents/programming/cSharp/WeatherClient/bin/Debug/net9.0/WeatherClient.runtimeconfig.json
+/home/Chief/Documents/programming/cSharp/WeatherClient/bin/Debug/net9.0/WeatherClient.dll
+/home/Chief/Documents/programming/cSharp/WeatherClient/bin/Debug/net9.0/WeatherClient.pdb
+/home/Chief/Documents/programming/cSharp/WeatherClient/obj/Debug/net9.0/WeatherClient.dll
+/home/Chief/Documents/programming/cSharp/WeatherClient/obj/Debug/net9.0/refint/WeatherClient.dll
+/home/Chief/Documents/programming/cSharp/WeatherClient/obj/Debug/net9.0/WeatherClient.pdb
+/home/Chief/Documents/programming/cSharp/WeatherClient/obj/Debug/net9.0/WeatherClient.genruntimeconfig.cache
+/home/Chief/Documents/programming/cSharp/WeatherClient/obj/Debug/net9.0/ref/WeatherClient.dll
